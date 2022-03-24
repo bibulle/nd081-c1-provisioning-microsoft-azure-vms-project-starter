@@ -1,0 +1,1 @@
+SELECT name FROM sysobjects WHERE name='USERS' and xtype='U';
